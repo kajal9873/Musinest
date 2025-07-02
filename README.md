@@ -6,7 +6,7 @@
 
 ## 🌟 Features
 
-- 🎶 Display of multiple songs with name, artist & cover image
+- 🎶 Display of multiple songs with name & cover image
 - 🎧 Custom audio player with progress bar
 - 🕹️ Seek to any part of the song by dragging the progress bar
 - ❤️ Like button to mark your favorite songs
